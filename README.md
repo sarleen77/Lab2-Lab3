@@ -8,7 +8,9 @@ Each row represents a patient and includes clinical, lifestyle, and behavioral f
 (1) Is this a regression, classification, or clustering problem?
 
 This dataset supports both regression and classification, but it is primarily a supervised learning problem
+
 Regression → when predicting the heart_disease_risk_score (a continuous numeric value)
+
 Classification → when predicting the risk_category (Low, Medium, High)
 
 (2) Is there a target variable?
