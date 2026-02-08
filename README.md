@@ -5,6 +5,8 @@ This dataset simulates cardiovascular health checkup records for patients and is
 
 Each row represents a patient and includes clinical, lifestyle, and behavioral factors known to influence cardiovascular health. The dataset models realistic medical relationships where high blood pressure, high cholesterol, smoking, stress, and low physical activity increase heart disease risk
 
+-------------------------
+
 (1) Is this a regression, classification, or clustering problem?
 
 This dataset supports both regression and classification, but it is primarily a supervised learning problem
@@ -13,6 +15,7 @@ Regression → when predicting the heart_disease_risk_score (a continuous numeri
 
 Classification → when predicting the risk_category (Low, Medium, High)
 
+-------------------------
 
 (2) Is there a target variable?
 
@@ -29,6 +32,7 @@ Target variable: risk_category
 
 All other columns (age, BMI, blood pressure, cholesterol, smoking status, etc.) act as input features
 
+-------------------------
 
 (3) What is the model expected to learn or predict?
 
