@@ -1,5 +1,5 @@
-# Lab2
-This repository  is for Lab2.
+# Lab2 & Lab3
+This repository  is for Lab2 and Lab3.
 
 This dataset simulates cardiovascular health checkup records for patients and is designed for machine learning models that predict heart disease risk
 
